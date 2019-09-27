@@ -1,4 +1,4 @@
-const category = 'example';
+const category = 'AppSyncWrapper';
 
 async function add(context, providerName, service) {
   const options = {
